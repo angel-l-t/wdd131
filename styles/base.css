@@ -92,9 +92,15 @@ footer {
     background-color: rgb(18 119 18);
     color: white;
     text-align: center;
+    padding: 2rem;
 }
 
 footer p {
-    padding: 2rem;
+    font-size: 1.25rem;
     margin: 0;
+}
+
+#lastModified {
+    color: rgb(214 255 0);
+    font-size: 1rem;
 }
